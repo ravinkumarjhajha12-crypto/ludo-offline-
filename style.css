@@ -5,4 +5,9 @@
     width: 450px;
     height: 450px;
     border: 2px solid black;
+    margin: 20px auto;
+}
+.cell {
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
 }
